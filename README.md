@@ -38,7 +38,7 @@
     </div>
     </p>
 
-    #### Você me encontra em:
+### Você me encontra em:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-vict%C3%B3rio-3538771a4/)](https://www.linkedin.com/in/rodrigo-vict%C3%B3rio-3538771a4/)[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigovictorio1)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rodrigovictorio_/)
 
 
